@@ -7,5 +7,5 @@ The encoder uses the pre-trained ResNet-50 architecture (with the final fully-co
 ![image](https://user-images.githubusercontent.com/68143886/126609028-6ed06d7c-dee0-4384-87fc-f3ccacad78ca.png)
 Decoder, which is a sequential neural network consisting of LSTM units, which translates the feature vector into a sequence of tokens
 ![image](https://user-images.githubusercontent.com/68143886/126609138-9fc0b9bf-f612-4dee-931e-241e079f33ec.png)
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/68143886/126609730-9d03711c-afaf-4b1f-8e5c-f8dde528042d.png)
 A zebra standing in a field of dry grass
